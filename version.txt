@@ -1,0 +1,6 @@
+﻿build=44
+version=1.6.1
+commit=acb39a3
+date=2026-11-17 13:37
+sha256=f3e7dd4ba6710aca9df11e9fdfb2bd00d33435d969370a2e34673e33d4d1d951
+size=76301661
